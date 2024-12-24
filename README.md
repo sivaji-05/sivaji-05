@@ -6,7 +6,7 @@ I'm a passionate software developer with a keen interest in building efficient a
 - 🌱 I’m currently learning advanced algorithms and machine learning.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [Email](mailto:sivaji@example.com)
+- 📫 How to reach me: [Email](mailto:sivajivss05@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## Skills
