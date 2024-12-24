@@ -16,19 +16,4 @@ I'm a passionate software developer with a keen interest in building efficient a
 - **Tools:** Git, Docker, Kubernetes, Jenkins
 - **Cloud:** AWS, Azure, GCP
 
-## GitHub Stats
-![Sivaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivaji-05&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivaji-05&layout=compact&theme=radical)
-
-## Projects
-- [Project 1](https://github.com/sivaji-05/project1): Description of project 1.
-- [Project 2](https://github.com/sivaji-05/project2): Description of project 2.
-- [Project 3](https://github.com/sivaji-05/project3): Description of project 3.
-
-## Connect with Me
-- [LinkedIn](https://linkedin.com/in/sivaji-05)
-- [Twitter](https://twitter.com/sivaji-05)
-
 Thanks for visiting my profile! Have a great day! 😊
