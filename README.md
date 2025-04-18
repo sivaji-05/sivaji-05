@@ -14,6 +14,6 @@ I'm a passionate software developer with a keen interest in building efficient a
 - **Web Development:** HTML, CSS, React, Node.js, Django
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Cloud:** AWS, Azure, GCP
+- **Cloud:** AWS, Azure.
 
 Thanks for visiting my profile! Have a great day! 😊
